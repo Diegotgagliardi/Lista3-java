@@ -22,11 +22,11 @@ import br.edu.up.exercicios.Exercicio12;
 // import br.edu.up.exercicios.Exercicio19;
 // import br.edu.up.exercicios.Exercicio20;
 // import br.edu.up.exercicios.Exercicio21;
-// import br.edu.up.exercicios.Exercicio22;
-// import br.edu.up.exercicios.Exercicio23;
-// import br.edu.up.exercicios.Exercicio24;
-// import br.edu.up.exercicios.Exercicio25;
-// import br.edu.up.exercicios.Exercicio26;
+import br.edu.up.exercicios.Exercicio22;
+import br.edu.up.exercicios.Exercicio23;
+import br.edu.up.exercicios.Exercicio24;
+import br.edu.up.exercicios.Exercicio25;
+import br.edu.up.exercicios.Exercicio26;
 
 
 
@@ -98,21 +98,24 @@ public class Programa {
         // case 20:
         //     Exercicio20.executar();
         //     break;
-        // case 20:
+        // case 21:
         //     Exercicio21.executar();
         //     break;
-        // case 20:
-        //     Exercicio22.executar();
-        //     break;
-        // case 20:
-        //     Exercicio23.executar();
-        //     break;
-        // case 20:
-        //     Exercicio24.executar();
-        //     break;
-        // case 20:
-        //     Exercicio25.executar();
-        //     break;
+        case 22:
+            Exercicio22.executar();
+            break;
+        case 23:
+            Exercicio23.executar();
+            break;
+        case 24:
+            Exercicio24.executar();
+            break;
+        case 25:
+            Exercicio25.executar();
+            break;
+        case 26:
+            Exercicio26.executar();
+            break;
         default:    
             System.out.println("Exercicio não encontrado.");
             break;
