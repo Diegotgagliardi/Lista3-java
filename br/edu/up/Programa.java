@@ -13,15 +13,15 @@ import br.edu.up.exercicios.Exercicio09;
 import br.edu.up.exercicios.Exercicio10;
 import br.edu.up.exercicios.Exercicio11;
 import br.edu.up.exercicios.Exercicio12;
-// import br.edu.up.exercicios.Exercicio13;
-// import br.edu.up.exercicios.Exercicio14;
-// import br.edu.up.exercicios.Exercicio15;
-// import br.edu.up.exercicios.Exercicio16;
-// import br.edu.up.exercicios.Exercicio17;
-// import br.edu.up.exercicios.Exercicio18;
-// import br.edu.up.exercicios.Exercicio19;
-// import br.edu.up.exercicios.Exercicio20;
-// import br.edu.up.exercicios.Exercicio21;
+import br.edu.up.exercicios.Exercicio13;
+import br.edu.up.exercicios.Exercicio14;
+import br.edu.up.exercicios.Exercicio15;
+import br.edu.up.exercicios.Exercicio16;
+import br.edu.up.exercicios.Exercicio17;
+import br.edu.up.exercicios.Exercicio18;
+import br.edu.up.exercicios.Exercicio19;
+import br.edu.up.exercicios.Exercicio20;
+import br.edu.up.exercicios.Exercicio21;
 import br.edu.up.exercicios.Exercicio22;
 import br.edu.up.exercicios.Exercicio23;
 import br.edu.up.exercicios.Exercicio24;
@@ -74,33 +74,33 @@ public class Programa {
         case 12:
             Exercicio12.executar();
             break;
-        // case 13:
-        //     Exercicio13.executar();
-        //     break;
-        // case 14:
-        //     Exercicio14.executar();
-        //     break;
-        // case 15:
-        //     Exercicio15.executar();
-        //     break;
-        // case 16:
-        //     Exercicio16.executar();
-        //     break;
-        // case 17:
-        //     Exercicio17.executar();
-        //     break;
-        // case 18:
-        //     Exercicio18.executar();
-        //     break;
-        // case 19:
-        //     Exercicio19.executar();
-        //     break;
-        // case 20:
-        //     Exercicio20.executar();
-        //     break;
-        // case 21:
-        //     Exercicio21.executar();
-        //     break;
+        case 13:
+            Exercicio13.executar();
+            break;
+        case 14:
+            Exercicio14.executar();
+            break;
+        case 15:
+            Exercicio15.executar();
+            break;
+        case 16:
+            Exercicio16.executar();
+            break;
+        case 17:
+            Exercicio17.executar();
+            break;
+        case 18:
+            Exercicio18.executar();
+            break;
+        case 19:
+            Exercicio19.executar();
+            break;
+        case 20:
+            Exercicio20.executar();
+            break;
+        case 21:
+            Exercicio21.executar();
+            break;
         case 22:
             Exercicio22.executar();
             break;
